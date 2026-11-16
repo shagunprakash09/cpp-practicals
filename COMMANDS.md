@@ -3,7 +3,7 @@
 ## Practical 1
 1. On github.com create an empty repo `cpp-practicals`.
 ```bash
-git config --global user.name "Shagun Prakash"
+git config --global user.name "Shagun Prakash Srivastava"
 git config --global user.email "your-github-email"
 git clone https://github.com/YOUR-USERNAME/cpp-practicals.git
 cp cpp-practicals/* <cloned-folder>/     # or copy the files in manually
